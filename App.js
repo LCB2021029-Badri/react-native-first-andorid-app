@@ -73,7 +73,7 @@ function App() {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.js</Text>
-            main branch
+            main branch change 2
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
