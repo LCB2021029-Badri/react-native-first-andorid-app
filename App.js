@@ -73,7 +73,7 @@ function App() {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.js</Text>
-            Hello Badri, First time doing app in react native?
+            badri-feature-testing-branch
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
