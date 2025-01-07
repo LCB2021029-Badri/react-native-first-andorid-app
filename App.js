@@ -73,7 +73,8 @@ function App() {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.js</Text>
-            main branch change 2
+            badri-feature-testing-branch
+
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
